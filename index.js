@@ -1,5 +1,3 @@
-import axios from 'axios'
-
 const baseURL = 'https://dummyjson.com'
 
 // Function HTTP Method Get -> Read All Data
